@@ -5,9 +5,11 @@ A comprehensive collection of Java programs featuring various sorting algorithms
 ## 📚 Projects Included
 
 ### Sorting Algorithms
+
 - **Sort.java** - Implementation of sorting algorithms
 
 ### Number Programs
+
 - **Armstrong.java** - Check if a number is an Armstrong number
 - **PrimeCheck.java** - Check if a number is prime
 - **PrimeCount.java** - Count prime numbers in a range
@@ -17,11 +19,13 @@ A comprehensive collection of Java programs featuring various sorting algorithms
 - **BinaryCheck.java** - Binary number operations
 
 ### String & Character Programs
+
 - **ASCII.java** - ASCII character operations
 - **Unicodeall.java** - Unicode character handling
 - **Unicodealls.java** - Extended Unicode operations
 
 ### Core Java Concepts
+
 - **Loop.java** - Loop demonstrations
 - **Demo.java** - General demonstrations
 - **Inheritance.java** - Single inheritance examples
@@ -30,6 +34,7 @@ A comprehensive collection of Java programs featuring various sorting algorithms
 - **Inner2.java** - Inner class examples
 
 ### Additional Files
+
 - **sample.java, second.java** - Sample programs
 - **sample.c, test.c** - C language samples
 
@@ -47,16 +52,19 @@ A comprehensive collection of Java programs featuring various sorting algorithms
 ## 🚀 How to Use
 
 ### Compile Java Programs
+
 ```bash
 javac FileName.java
 ```
 
 ### Run Java Programs
+
 ```bash
 java FileName
 ```
 
 ### Example
+
 ```bash
 # Compile
 javac PrimeCheck.java
@@ -68,16 +76,19 @@ java PrimeCheck
 ## 📝 Program Examples
 
 ### Armstrong Number Check
+
 ```
 Checks if a number is an Armstrong number (153 = 1³ + 5³ + 3³)
 ```
 
 ### Prime Number Check
+
 ```
 Determines if a number is prime or composite
 ```
 
 ### Factorial Calculation
+
 ```
 Calculates the factorial of a given number
 ```
@@ -85,6 +96,7 @@ Calculates the factorial of a given number
 ## 🎯 Learning Outcomes
 
 These programs cover:
+
 - ✅ Basic Java syntax and structures
 - ✅ Loops and conditional statements
 - ✅ Object-oriented programming concepts
@@ -111,6 +123,7 @@ Sort/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
+
 - Submit issues
 - Create pull requests
 - Suggest improvements
@@ -122,6 +135,7 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Prem-4545**
+
 - GitHub: [@Prem-4545](https://github.com/Prem-4545)
 - Email: jpremchand4939@gmail.com
 
