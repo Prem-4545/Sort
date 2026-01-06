@@ -1,0 +1,24 @@
+# Compiled files
+*.class
+*.jar
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.eclipse
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# C/C++ build files
+*.o
+*.out
